@@ -1,4 +1,4 @@
-#3Leds and 3 Push Buttons
+# 3 Leds and 3 Push Buttons
 This project demonstrates how to control three LEDs using push buttons (or digital inputs) on an Arduino Uno. Each button corresponds to one LED, turning it on while the button is pressed.
 
 Features
